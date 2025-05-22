@@ -1,6 +1,3 @@
-
-Here’s the revised README with clean formatting, aligned to your request:
-
 🚑 AED FINAL PROJECT
 
 🏥 Homeless Health Connect
